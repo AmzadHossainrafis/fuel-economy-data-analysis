@@ -7,9 +7,12 @@
 
 
 # preject name : fuel econamy analysis [2008-2018]
+---
 ### 1.Project description : 
+---
 
 ### 2.Dataset overview :
+---
 1.dataset download scource :
 2.dataset elements
     
@@ -22,6 +25,7 @@
      * Drv : Drive Axle Type
         
 ### 3.Data cleaning :
+------------
  1. coloum renaming :
      * rename the coloum " " ot " " for better understanding of the dataset 
  2. reduce the dimensonality( remove the unimportant coloums ).
@@ -40,6 +44,7 @@
      * remove '/' from fuel 
      * resolve mistake like unintensional spacing 
 # Data exploring with Visuals
+-------------
 ### heigh-level overview of data 
 ![](project_name/data/fig/all_clen_hist_08.jpg)
 ### data distribution of 2008 fuel economy dataset 
@@ -51,14 +56,20 @@
 
 
 # key finding 
-1. Are more models using alternative sources of fuel? By how much?
-![](project_name/data/fig/pie_fuel_08and18.png)
-
-2. How much have vehicle classes improved in fuel economy?
+---
+### 1. <b>Are more models using alternative sources of fuel? By how much?</b>
+   <u></u>
+![](project_name/data/fig/pie_fuel_08and18.jpg)
+### 2. How much have vehicle classes improved in fuel economy?
    
-![](project_name/data/fig/q2inc.png)
-1. What are the characteristics of SmartWay vehicles?
-2. Are smartway  vehicle are more eco-friendly ? 
+![](project_name/data/fig/q2inc.jpg)
+### 3. What are the characteristics of SmartWay vehicles?
+
+![](project_name/data/fig/q3.png)
+
+
+
+### 4. Are smartway  vehicle are more eco-friendly ? 
 
 
 
