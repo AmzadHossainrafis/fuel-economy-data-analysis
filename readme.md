@@ -41,13 +41,14 @@
      * resolve mistake like unintensional spacing 
 # Data exploring with Visuals
 ### heigh-level overview of data 
-![](project_name/data/fig/all_clen_hist_08.png)
+![](project_name/data/fig/all_clen_hist_08.jpg)
 ### data distribution of 2008 fuel economy dataset 
-![](project_name/data/fig/histplot_08.png)
-### heigh-level overview of data 
+![](project_name/data/fig/histplot_18.jpg)
 
+### heigh-level overview of data 
+![](project_name/data/fig/histplot_18.jpg)
 ### data distribution of 2018 fuel economy dataset 
-![](project_name/data/fig/histplot_18.png)
+
 
 # key finding 
 1. Are more models using alternative sources of fuel? By how much?
