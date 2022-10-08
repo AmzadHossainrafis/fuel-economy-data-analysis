@@ -1,8 +1,13 @@
+
+
+
+
+
 ### table of contante 
     1. project description 
     2. dataset overview 
     3. data cleaning 
-    4. key finding 
+    4. key finding and conclusion 
 
 
 
@@ -10,7 +15,20 @@
 ---
 ### 1.Project description : 
 ---
-This project is for find out and analys the fule economy . in this project i try to demonstarate verious relasonship and some key finding 
+
+This project is for find out and analys the fule economy in california  .
+
+
+<b> *  Q1: Are more unique models using alternative fuels in 2018 compared to 2008? By how much?
+  
+* Q2: How much have vehicle classes improved in fuel economy (increased in mpg)?
+* Q3: What are the characteristics of SmartWay vehicles? Have they changed over time? (mpg, greenhouse gas)
+* Q4: What features are associated with better fuel economy (mpg)?
+* Q5:For all of the models that were produced in 2008 that are still being produced in 2018, how much has the mpg improved and which vehicle improved the most?
+* Are smartway vehicles are more eco friendly ?
+* what is the coorelation between displacement and combined mpg
+
+</b>
 
 ### 2.Dataset overview :
 ---
@@ -53,30 +71,38 @@ Fuel Economy Data This information is provided by the U.S. Environmental Protect
 # Data exploring with Visuals
 -------------
 ### heigh-level overview of data 
-![](project_name/data/fig/all_clen_hist_08.jpg)
+![img](project_name/data/fig/all_clen_hist_08.jpg)
 ### data distribution of the 2008 fuel economy dataset 
-![](project_name/data/fig/histplot_18.jpg)
+![img](project_name/data/fig/histplot_18.jpg)
 
 ### heigh-level overview of data 
-![](project_name/data/fig/histplot_18.jpg)
+![img](project_name/data/fig/histplot_18.jpg)
 ### data distribution of the 2018 fuel economy dataset 
 
 
 # key finding 
 ---
 ### 1. <b>Are more models using alternative fuel sources? By how much?</b>
-![](project_name/data/fig/pie_fuel_08and18.jpg)
+![img](project_name/data/fig/pie_fuel_08and18.jpg)
 ### 2. How much have vehicle classes improved in fuel economy?
    
-![](project_name/data/fig/q2inc.jpg)
+![img](project_name/data/fig/q2inc.jpg)
 ### 3. What are the characteristics of SmartWay vehicles?
 
-![](project_name/data/fig/q3.png)
+![img](project_name/data/fig/q3.png)
 
 ### 4. Are smartway vehicles more eco-friendly? 
 
 
 
+### 5 what is the underline coorelation between displacement and combined mpg ?
+
+![img](project_name/data/fig/cmbvsdipl_scatter_08.jpg)
 
 
+### Q5: What features are associated with better fuel economy?
+features are associated with better fuel economy for year 2008 
+![img](project_name/data/fig/features.jpg)
 
+eatures are associated with better fuel economy for year 2018
+![img](project_name/data/fig/features2.jpg)
