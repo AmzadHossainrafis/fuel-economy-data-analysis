@@ -84,6 +84,8 @@ Fuel Economy Data This information is provided by the U.S. Environmental Protect
 ---
 ### 1. <b>Are more models using alternative fuel sources? By how much?</b>
 ![img](project_name/data/fig/pie_fuel_08and18.jpg)
+
+-->from the fig abave we can come to a conclusion that the persentage of alternative fuel scourse very very low but it's increasing . 
 ### 2. How much have vehicle classes improved in fuel economy?
    
 ![img](project_name/data/fig/q2inc.jpg)
@@ -91,18 +93,24 @@ Fuel Economy Data This information is provided by the U.S. Environmental Protect
 
 ![img](project_name/data/fig/q3.png)
 
-### 4. Are smartway vehicles more eco-friendly? 
 
 
 
-### 5 what is the underline coorelation between displacement and combined mpg ?
-
-![img](project_name/data/fig/cmbvsdipl_scatter_08.jpg)
-
-
-### Q5: What features are associated with better fuel economy?
+### 4: What features are associated with better fuel economy?
 features are associated with better fuel economy for year 2008 
 ![img](project_name/data/fig/features.jpg)
 
-eatures are associated with better fuel economy for year 2018
+features are associated with better fuel economy for year 2018
 ![img](project_name/data/fig/features2.jpg)
+
+### 5. Are smartway vehicles more eco-friendly? 
+![](project_name/data/fig/2008greenhouse_scoure.jpg)
+![](project_name/data/fig/2018greenhouse_score.jpg)
+-->from the graph we can easily conclude that the avg green house gas scoure from both of years for smartway vehicles are musch higher in consider to non smartway vehicles, ans is "no" .
+
+### 6.what is the underline coorelation between displacement and combined mpg ?
+
+![img](project_name/data/fig/cmbvsdipl_scatter_08.jpg)
+
+from the graph avabe we can say there are strong negetive  coorelation between displacement and combined mpg
+
