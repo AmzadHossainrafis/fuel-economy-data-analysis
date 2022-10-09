@@ -75,9 +75,9 @@ Fuel Economy Data, The U.S. Environmental Protection Agency, provides this infor
 ### data distribution of the 2008 fuel economy dataset 
 ![img](project_name/data/fig/histplot_18.jpg)
 
-### heigh-level overview of data 
-![img](project_name/data/fig/histplot_18.jpg)
 ### data distribution of the 2018 fuel economy dataset 
+![img](project_name/data/fig/histplot_18.jpg)
+
 
 
 ### key finding 
