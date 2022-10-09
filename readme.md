@@ -68,7 +68,7 @@ Fuel Economy Data, The U.S. Environmental Protection Agency, provides this infor
  7. <b>remove all the unnecessary expressions</b>
      * remove '/' from the fuel 
      * resolve mistakes like unintentional spacing 
-# Data exploring with Visuals
+### Data exploring with Visuals
 -------------
 ### heigh-level overview of data 
 ![img](project_name/data/fig/all_clen_hist_08.jpg)
@@ -80,7 +80,7 @@ Fuel Economy Data, The U.S. Environmental Protection Agency, provides this infor
 ### data distribution of the 2018 fuel economy dataset 
 
 
-# key finding 
+### key finding 
 ---
 ### 1. <b>Are more models using alternative fuel sources? By how much?</b>
 ![img](project_name/data/fig/pie_fuel_08and18.jpg)
