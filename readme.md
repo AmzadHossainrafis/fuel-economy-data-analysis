@@ -25,8 +25,8 @@ This project is to find out and analyse the fuel economy in California.
 * Q3: What are the characteristics of SmartWay vehicles? Have they changed over time? (mpg, greenhouse gas)
 * Q4: What features are associated with better fuel economy (mpg)?
 * Q5:For all of the models that were produced in 2008 that are still being produced in 2018, how much has the mpg improved and which vehicle improved the most?
-* Are SmartWay vehicles more eco-friendly?
-* What is the correlation between displacement and combined mpg
+* Q6:Are SmartWay vehicles more eco-friendly?
+* Q7:What is the correlation between displacement and combined mpg
 
 </b>
 
