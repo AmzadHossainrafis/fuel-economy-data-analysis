@@ -16,7 +16,7 @@
 ### 1.Project description : 
 ---
 
-This project is to find out and analyse the fuel economy in California.
+This project is to analyse the fuel economy in California.
 
 
 <b> *  Q1: Are more unique models using alternative fuels in 2018 compared to 2008? By how much?
